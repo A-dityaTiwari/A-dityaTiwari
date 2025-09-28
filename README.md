@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Engineering+Student;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI%2FML+Engineer;Always+learning+something+new!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -8,19 +8,6 @@
 - ⚡ Fun fact: I believe learning something new is the best part of coding!
 - 🎯 Goal: Become a skilled AI/ML Engineer and contribute to innovative projects
 - 💡 I love exploring new technologies and solving complex problems
-
-## 📫 Contact Me
-<p align="center">
-  <a href="mailto:adityatiwari.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-tiwari-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/A-dityaTiwari">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ## 🛠️ Programming Languages
 <p align="center">
@@ -52,20 +39,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-dityaTiwari&theme=github-compact" alt="Activity Graph" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📫 Contact Me
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A-dityaTiwari&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="mailto:adityatiwari.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-tiwari-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/A-dityaTiwari">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-
-## 💻 Weekly Development Breakdown
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=A-dityaTiwari&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=A-dityaTiwari&icon=0&color=0" alt="Profile Views" />
-</p>
-
 ---
 
 <p align="center">
